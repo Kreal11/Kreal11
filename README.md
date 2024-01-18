@@ -19,7 +19,9 @@ Top Technologies
 ![Static Badge](https://img.shields.io/badge/Styled%20components-FFFFFF?style=for-the-badge&logo=Styled%20Components&labelColor=black&color=rgb(191%2C%2079%2C%20116))
 ![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-FFFFFF?style=for-the-badge&logo=Tailwind%20CSS&labelColor=black&color=rgb(56%20189%20248))
 
+My stats⭐
 
+[![My Stats](https://github-readme-stats.vercel.app/api?username=Kreal11&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 Email: kirillshyrokov2@gmail.com
 
