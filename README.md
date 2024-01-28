@@ -4,7 +4,7 @@ Ex-medical professional turned software developer with problem-solving skills, s
 
 Reach me out!
 
-![LinkedIn](https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkyrylo-shyrokov%2F?style=social&logo=LinkedIn&color=rgb(0%2C%200%2C%20255))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=social&logo=LinkedIn)](https://www.linkedin.com/in/kyrylo-shyrokov/)
 [![Telegram](https://img.shields.io/badge/Telegram-Chat-0088cc?style=social&logo=Telegram&labelColor=0088cc&logoColor=blue)](https://t.me/k_realo)
 
 Top Technologies
